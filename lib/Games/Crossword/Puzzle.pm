@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Games::Crossword::Puzzle;
 {
-  $Games::Crossword::Puzzle::VERSION = '0.002';
+  $Games::Crossword::Puzzle::VERSION = '0.003';
 }
 # ABSTRACT: six letters for "reusable unit of code"
 
@@ -226,7 +226,7 @@ Games::Crossword::Puzzle - six letters for "reusable unit of code"
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 SYNOPSIS
 

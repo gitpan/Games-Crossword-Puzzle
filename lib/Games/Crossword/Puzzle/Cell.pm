@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Games::Crossword::Puzzle::Cell;
 {
-  $Games::Crossword::Puzzle::Cell::VERSION = '0.002';
+  $Games::Crossword::Puzzle::Cell::VERSION = '0.003';
 }
 # ABSTRACT:  one of those little square bits with a number
 
@@ -44,7 +44,7 @@ Games::Crossword::Puzzle::Cell - one of those little square bits with a number
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 METHODS
 
